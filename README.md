@@ -5,6 +5,11 @@ Simple web application that reads data from Flickr's public feeds and displays t
 # Table of Contents
 
 [General Infro](#GeneralInfo)
+[Technologies](#Technologies)
+[API Testing](#APITesting)
+[API Methods](#APIMethods)
+[Setup](#Setup)
+
 ## General Info
 
 This is an full stack application that can be used to load the public feed images of the API as a grid view and also to search images which returns from the API by giving a keyword.
@@ -42,9 +47,7 @@ api/search/[tag] : returns the images which is match with the relevant tag.
 
 $ cd flickr-app
 
-$cd backend
-
-$ npm install
+$ cd backend
 
 $ nodemon server
 
@@ -52,5 +55,5 @@ $ nodemon server
 
 $ cd flickr-app
 
-$npm start
+$ npm start
 
