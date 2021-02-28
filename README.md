@@ -6,6 +6,8 @@ Simple web application that reads data from Flickr's public feeds and displays t
 
 [General Infro](#GeneralInfo)
 
+[Demo](#Demo)
+
 [Technologies](#Technologies)
 
 [API Testing](#APITesting)
