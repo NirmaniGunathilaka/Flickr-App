@@ -9,7 +9,7 @@ This is an full stack application that can be used to load the public feed image
 Flickr API has used as the 3rd party API.
 
 * Reads the Flickr's public feed
-* 
+
 * Search images
 
 
@@ -29,7 +29,7 @@ Jest
 
 ## API Methods
 
-api/photos  : load the public feed images
+api/photos       : load the public feed images
 
 api/search/[tag] : returns the images which is match with the relevant tag.
 
@@ -37,17 +37,17 @@ api/search/[tag] : returns the images which is match with the relevant tag.
 
 ### Backend
 
-$ cd flickr-app
+*$ cd flickr-app
 
-$cd backend
+*$cd backend
 
-$ npm install
+*$ npm install
 
-$ nodemon server
+*$ nodemon server
 
 ### Frontend
 
-$ cd flickr-app
+*$ cd flickr-app
 
-$npm start
+*$npm start
 
