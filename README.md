@@ -29,6 +29,11 @@ Public Feed : "https://api.flickr.com/services/feeds/photos_public.gne?format=js
 
 Search      : "https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key="+apikey+"&tags="+value+"&format=json&nojsoncallback=1"
 
+## Demo
+
+![image](https://user-images.githubusercontent.com/36589720/109418198-187d3180-79ed-11eb-9831-d8196ce8a92f.png)
+
+
 ## Technologies
 
 Frontend - Reactjs 
