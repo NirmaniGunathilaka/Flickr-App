@@ -2,6 +2,9 @@
 
 Simple web application that reads data from Flickr's public feeds and displays the images on the page to the user.
 
+# Table of Contents
+
+[General Infro](## General Info)
 ## General Info
 
 This is an full stack application that can be used to load the public feed images of the API as a grid view and also to search images which returns from the API by giving a keyword.
