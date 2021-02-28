@@ -37,17 +37,17 @@ api/search/[tag] : returns the images which is match with the relevant tag.
 
 ### Backend
 
-*$ cd flickr-app
+$ cd flickr-app
 
-*$cd backend
+$cd backend
 
-*$ npm install
+$ npm install
 
-*$ nodemon server
+$ nodemon server
 
 ### Frontend
 
-*$ cd flickr-app
+$ cd flickr-app
 
-*$npm start
+$npm start
 
